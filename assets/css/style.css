@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(rgb(148, 148, 248),rgb(218, 164, 64));
+}
+
+.container{
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(241, 230, 179);
+    width: 80%;
+    height: 700px;
+}
+
+h1 {
+    text-align: center;
+}
+
+button{
+    width: 80%;
+    align-items: center;
+    height: 50px;
+}
+
+.box {
+    margin-top: 200px;
+    margin-left: 15%;
+}
